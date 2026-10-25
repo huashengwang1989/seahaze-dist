@@ -11,6 +11,22 @@ Tersedia untuk iPhone, iPad, Mac, Apple Watch dan Apple Vision Pro, dengan widge
 - **Dasar Privasi:** [PRIVACY.ms.md](PRIVACY.ms.md) — aplikasi ini tidak mengumpul data peribadi.
 - **Hubungi dan maklum balas:** [buka isu](../../issues) dalam repositori ini.
 
+## Tangkapan skrin
+
+<p align="center">
+  <img src="images/screenshots/iphone/01-haze-map.jpg" width="260" alt="Jerebu, titik panas kebakaran dan angin di Sumatera, Malaysia, Singapura dan Borneo">
+  &nbsp;
+  <img src="images/screenshots/iphone/02-station-details.jpg" width="260" alt="Butiran stesen dengan PM2.5, PSI dan carta 24 jam">
+</p>
+<p align="center">
+  <img src="images/screenshots/mac/01-haze-map.jpg" width="720" alt="Peta jerebu pada Mac">
+</p>
+<p align="center">
+  <img src="images/screenshots/vision-pro/01-3d-terrain.jpg" width="720" alt="Meja pasir rupa bumi 3D pada Apple Vision Pro">
+</p>
+
+**Lagi tangkapan skrin:** [iPhone](docs/screenshots/iphone.ms.md) · [iPad](docs/screenshots/ipad.ms.md) · [Mac](docs/screenshots/mac.ms.md) · [Apple Vision Pro](docs/screenshots/vision-pro.ms.md) · [Apple Watch](docs/screenshots/apple-watch.ms.md)
+
 ## Soalan lazim
 
 **Dari mana datangnya data?**

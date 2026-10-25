@@ -11,6 +11,22 @@ iPhone, iPad, Mac, Apple Watch, Apple Vision Pro ஆகியவற்றில�
 - **தனியுரிமைக் கொள்கை:** [PRIVACY.ta.md](PRIVACY.ta.md) — செயலி தனிப்பட்ட தரவு எதையும் சேகரிப்பதில்லை.
 - **தொடர்பும் கருத்தும்:** இந்தக் களஞ்சியத்தில் [ஒரு சிக்கலைத் திறக்கவும்](../../issues).
 
+## திரைப்பிடிப்புகள்
+
+<p align="center">
+  <img src="images/screenshots/iphone/01-haze-map.jpg" width="260" alt="சுமத்ரா, மலேசியா, சிங்கப்பூர், போர்னியோ முழுவதும் புகைமூட்டம், தீப்புள்ளிகள், காற்று">
+  &nbsp;
+  <img src="images/screenshots/iphone/02-station-details.jpg" width="260" alt="PM2.5, PSI, 24 மணிநேர விளக்கப்படத்துடன் நிலைய விவரங்கள்">
+</p>
+<p align="center">
+  <img src="images/screenshots/mac/01-haze-map.jpg" width="720" alt="Mac-இல் புகைமூட்ட வரைபடம்">
+</p>
+<p align="center">
+  <img src="images/screenshots/vision-pro/01-3d-terrain.jpg" width="720" alt="Apple Vision Pro-இல் 3D நிலப்பரப்பு மணல் மேசை">
+</p>
+
+**மேலும் திரைப்பிடிப்புகள்:** [iPhone](docs/screenshots/iphone.ta.md) · [iPad](docs/screenshots/ipad.ta.md) · [Mac](docs/screenshots/mac.ta.md) · [Apple Vision Pro](docs/screenshots/vision-pro.ta.md) · [Apple Watch](docs/screenshots/apple-watch.ta.md)
+
 ## அடிக்கடி கேட்கப்படும் கேள்விகள்
 
 **தரவு எங்கிருந்து வருகிறது?**

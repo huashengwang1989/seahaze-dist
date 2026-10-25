@@ -11,6 +11,22 @@ SEA Haze 显示新加坡、马来西亚及东南亚的烟霾与空气质量：�
 - **隐私政策：**[PRIVACY.zh-Hans.md](PRIVACY.zh-Hans.md)——本应用不收集任何个人数据。
 - **联系与反馈：**请在本代码库[提交问题](../../issues)。
 
+## 截图
+
+<p align="center">
+  <img src="images/screenshots/iphone/01-haze-map.jpg" width="260" alt="苏门答腊、马来西亚、新加坡和婆罗洲的烟霾、火点和风场">
+  &nbsp;
+  <img src="images/screenshots/iphone/02-station-details.jpg" width="260" alt="监测站详情：PM2.5、PSI 及 24 小时图表">
+</p>
+<p align="center">
+  <img src="images/screenshots/mac/01-haze-map.jpg" width="720" alt="Mac 上的烟霾地图">
+</p>
+<p align="center">
+  <img src="images/screenshots/vision-pro/01-3d-terrain.jpg" width="720" alt="Apple Vision Pro 上的 3D 地形沙盘">
+</p>
+
+**更多截图:** [iPhone](docs/screenshots/iphone.zh-Hans.md) · [iPad](docs/screenshots/ipad.zh-Hans.md) · [Mac](docs/screenshots/mac.zh-Hans.md) · [Apple Vision Pro](docs/screenshots/vision-pro.zh-Hans.md) · [Apple Watch](docs/screenshots/apple-watch.zh-Hans.md)
+
 ## 常见问题
 
 **数据从哪里来？**

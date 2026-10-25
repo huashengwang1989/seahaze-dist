@@ -11,6 +11,22 @@ Available for iPhone, iPad, Mac, Apple Watch and Apple Vision Pro, with widgets.
 - **Privacy Policy:** [PRIVACY.md](PRIVACY.md) — the app collects no personal data.
 - **Contact and feedback:** [open an issue](../../issues) in this repository.
 
+## Screenshots
+
+<p align="center">
+  <img src="images/screenshots/iphone/01-haze-map.jpg" width="260" alt="Haze, fire hotspots and wind across Sumatra, Malaysia, Singapore and Borneo">
+  &nbsp;
+  <img src="images/screenshots/iphone/02-station-details.jpg" width="260" alt="Station details with PM2.5, PSI and a 24-hour chart">
+</p>
+<p align="center">
+  <img src="images/screenshots/mac/01-haze-map.jpg" width="720" alt="Haze map on Mac">
+</p>
+<p align="center">
+  <img src="images/screenshots/vision-pro/01-3d-terrain.jpg" width="720" alt="3D terrain sand table on Apple Vision Pro">
+</p>
+
+**More screenshots:** [iPhone](docs/screenshots/iphone.md) · [iPad](docs/screenshots/ipad.md) · [Mac](docs/screenshots/mac.md) · [Apple Vision Pro](docs/screenshots/vision-pro.md) · [Apple Watch](docs/screenshots/apple-watch.md)
+
 ## Frequently asked questions
 
 **Where does the data come from?**

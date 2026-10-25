@@ -1,0 +1,20 @@
+# SEA Haze — iPhone திரைப்பிடிப்புகள்
+
+[English](iphone.md) · [华文](iphone.zh-Hans.md) · [Bahasa Melayu](iphone.ms.md) · **தமிழ்**
+
+[← ஆதரவுப் பக்கத்துக்குத் திரும்பு](../../README.ta.md)
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%"><img src="../../images/screenshots/iphone/01-haze-map.jpg" width="300" alt="சுமத்ரா, மலேசியா, சிங்கப்பூர், போர்னியோ முழுவதும் புகைமூட்டம், தீப்புள்ளிகள், காற்று"><br><sub>சுமத்ரா, மலேசியா, சிங்கப்பூர், போர்னியோ முழுவதும் புகைமூட்டம், தீப்புள்ளிகள், காற்று</sub></td>
+    <td align="center" valign="top" width="50%"><img src="../../images/screenshots/iphone/02-station-details.jpg" width="300" alt="PM2.5, PSI, 24 மணிநேர விளக்கப்படத்துடன் நிலைய விவரங்கள்"><br><sub>PM2.5, PSI, 24 மணிநேர விளக்கப்படத்துடன் நிலைய விவரங்கள்</sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%"><img src="../../images/screenshots/iphone/03-haze-and-hotspots.jpg" width="300" alt="பகுதி வாரியான தீப்புள்ளிகளும் சிங்கப்பூரை நோக்கிய காற்றும்"><br><sub>பகுதி வாரியான தீப்புள்ளிகளும் சிங்கப்பூரை நோக்கிய காற்றும்</sub></td>
+    <td align="center" valign="top" width="50%"><img src="../../images/screenshots/iphone/04-typhoon-tracker.jpg" width="300" alt="வெப்பமண்டலப் புயலின் பாதை, முன்னறிவிப்பு, காற்று ஆரம்"><br><sub>வெப்பமண்டலப் புயலின் பாதை, முன்னறிவிப்பு, காற்று ஆரம்</sub></td>
+  </tr>
+</table>
+
+<sub>திரைப்பிடிப்புகள் 25 அக்டோபர் 2026 அன்றைய உண்மையான தரவைக் காட்டுகின்றன.</sub>
+
+**பிற சாதனங்கள்:** [iPad](ipad.ta.md) · [Mac](mac.ta.md) · [Apple Vision Pro](vision-pro.ta.md) · [Apple Watch](apple-watch.ta.md)
