@@ -27,7 +27,7 @@ If you allow location access, the app picks the station nearest to you. Your loc
 On iPhone or iPad, touch and hold the Home Screen, tap Edit → Add Widget, and search for "SEA Haze". On Mac, right-click the desktop and choose Edit Widgets. Edit the widget to choose a station or show Singapore's five regions.
 
 **Can I see place names in my language?**
-Yes. In Settings, set Location Names to App Language. The Place Names link at the bottom of Settings lists all translated names.
+Yes. In Settings, set Location Names to App Language. The Place Name List link at the bottom of Settings shows all translated names.
 
 ## Data credits
 

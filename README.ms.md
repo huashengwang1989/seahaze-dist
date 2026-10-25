@@ -27,7 +27,7 @@ Jika anda membenarkan akses lokasi, aplikasi memilih stesen yang terdekat dengan
 Pada iPhone atau iPad, sentuh dan tahan Skrin Utama, ketik Edit → Tambah Widget, dan cari "SEA Haze". Pada Mac, klik kanan desktop dan pilih Edit Widget. Edit widget untuk memilih stesen atau memaparkan lima kawasan Singapura.
 
 **Bolehkah nama tempat dipaparkan dalam bahasa saya?**
-Boleh. Dalam Tetapan, tetapkan Nama Lokasi kepada Bahasa Aplikasi. Pautan Nama Tempat di bahagian bawah Tetapan menyenaraikan semua nama yang diterjemah.
+Boleh. Dalam Tetapan, tetapkan Nama Lokasi kepada Bahasa Aplikasi. Pautan Senarai Nama Tempat di bahagian bawah Tetapan menyenaraikan semua nama yang diterjemah.
 
 ## Penghargaan data
 
