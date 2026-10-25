@@ -2,6 +2,8 @@
 
 [English](README.md) · **华文** · [Bahasa Melayu](README.ms.md) · [தமிழ்](README.ta.md)
 
+> **关于本代码库：**SEA Haze 并非开源软件。本应用即将在 Apple App Store 上架。本代码库用于存放其支持页面和隐私政策，也是[反馈问题和提出功能建议](../../issues)的地方。
+
 SEA Haze 显示新加坡、马来西亚及东南亚的烟霾与空气质量：实时 PM2.5、PSI 和 API 读数，地图上的烟霾与风场，苏门答腊和婆罗洲的卫星火点，降雨，以及热带气旋。
 
 适用于 iPhone、iPad、Mac、Apple Watch 和 Apple Vision Pro，并提供小组件。应用支持 English、华文、Bahasa Melayu 和 தமிழ்。
