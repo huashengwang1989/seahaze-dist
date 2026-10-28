@@ -9,4 +9,4 @@
 
 <sub>Screenshots show real data from 25 October 2026.</sub>
 
-**Other devices:** [iPhone](iphone.md) · [iPad](ipad.md) · [Mac](mac.md) · [Apple Vision Pro](vision-pro.md)
+**Other devices:** [iPhone](iphone.md) · [iPhone Duo](iphone-duo.md) · [iPad](ipad.md) · [Mac](mac.md) · [Apple Vision Pro](vision-pro.md)

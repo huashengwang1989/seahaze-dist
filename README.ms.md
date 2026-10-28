@@ -25,7 +25,7 @@ Tersedia untuk iPhone, iPad, Mac, Apple Watch dan Apple Vision Pro, dengan widge
   <img src="images/screenshots/vision-pro/01-3d-terrain.jpg" width="720" alt="Meja pasir rupa bumi 3D pada Apple Vision Pro">
 </p>
 
-**Lagi tangkapan skrin:** [iPhone](docs/screenshots/iphone.ms.md) · [iPad](docs/screenshots/ipad.ms.md) · [Mac](docs/screenshots/mac.ms.md) · [Apple Vision Pro](docs/screenshots/vision-pro.ms.md) · [Apple Watch](docs/screenshots/apple-watch.ms.md)
+**Lagi tangkapan skrin:** [iPhone](docs/screenshots/iphone.ms.md) · [iPhone Duo](docs/screenshots/iphone-duo.ms.md) · [iPad](docs/screenshots/ipad.ms.md) · [Mac](docs/screenshots/mac.ms.md) · [Apple Vision Pro](docs/screenshots/vision-pro.ms.md) · [Apple Watch](docs/screenshots/apple-watch.ms.md)
 
 ## Soalan lazim
 

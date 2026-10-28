@@ -4,6 +4,8 @@
 
 [← 返回支持页面](../../README.zh-Hans.md)
 
+## 横向
+
 <p align="center"><img src="../../images/screenshots/ipad/01-haze-map.jpg" alt="苏门答腊、马来西亚、新加坡和婆罗洲的烟霾、火点和风场"><br><sub>苏门答腊、马来西亚、新加坡和婆罗洲的烟霾、火点和风场</sub></p>
 
 <p align="center"><img src="../../images/screenshots/ipad/02-station-details.jpg" alt="监测站详情：PM2.5、PSI 及 24 小时图表"><br><sub>监测站详情：PM2.5、PSI 及 24 小时图表</sub></p>
@@ -12,7 +14,16 @@
 
 <p align="center"><img src="../../images/screenshots/ipad/04-typhoon-tracker.jpg" alt="热带气旋路径、预测及风圈"><br><sub>热带气旋路径、预测及风圈</sub></p>
 
+## 纵向
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%"><img src="../../images/screenshots/ipad/05-portrait-haze-map.jpg" width="240" alt="苏门答腊、马来西亚、新加坡和婆罗洲的烟霾、火点和风场"><br><sub>苏门答腊、马来西亚、新加坡和婆罗洲的烟霾、火点和风场</sub></td>
+    <td align="center" valign="top" width="33%"><img src="../../images/screenshots/ipad/06-portrait-station-details.jpg" width="240" alt="监测站详情：PM2.5、PSI 及 24 小时图表"><br><sub>监测站详情：PM2.5、PSI 及 24 小时图表</sub></td>
+    <td align="center" valign="top" width="33%"><img src="../../images/screenshots/ipad/07-portrait-haze-and-hotspots.jpg" width="240" alt="各地区火点数量及吹向新加坡的风"><br><sub>各地区火点数量及吹向新加坡的风</sub></td>
+  </tr>
+</table>
 
 <sub>截图显示的是 2026 年 10 月 25 日的真实数据。</sub>
 
-**其他设备:** [iPhone](iphone.zh-Hans.md) · [Mac](mac.zh-Hans.md) · [Apple Vision Pro](vision-pro.zh-Hans.md) · [Apple Watch](apple-watch.zh-Hans.md)
+**其他设备:** [iPhone](iphone.zh-Hans.md) · [iPhone Duo](iphone-duo.zh-Hans.md) · [Mac](mac.zh-Hans.md) · [Apple Vision Pro](vision-pro.zh-Hans.md) · [Apple Watch](apple-watch.zh-Hans.md)

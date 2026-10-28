@@ -25,7 +25,7 @@ Available for iPhone, iPad, Mac, Apple Watch and Apple Vision Pro, with widgets.
   <img src="images/screenshots/vision-pro/01-3d-terrain.jpg" width="720" alt="3D terrain sand table on Apple Vision Pro">
 </p>
 
-**More screenshots:** [iPhone](docs/screenshots/iphone.md) · [iPad](docs/screenshots/ipad.md) · [Mac](docs/screenshots/mac.md) · [Apple Vision Pro](docs/screenshots/vision-pro.md) · [Apple Watch](docs/screenshots/apple-watch.md)
+**More screenshots:** [iPhone](docs/screenshots/iphone.md) · [iPhone Duo](docs/screenshots/iphone-duo.md) · [iPad](docs/screenshots/ipad.md) · [Mac](docs/screenshots/mac.md) · [Apple Vision Pro](docs/screenshots/vision-pro.md) · [Apple Watch](docs/screenshots/apple-watch.md)
 
 ## Frequently asked questions
 

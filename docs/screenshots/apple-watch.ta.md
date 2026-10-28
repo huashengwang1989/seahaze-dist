@@ -9,4 +9,4 @@
 
 <sub>திரைப்பிடிப்புகள் 25 அக்டோபர் 2026 அன்றைய உண்மையான தரவைக் காட்டுகின்றன.</sub>
 
-**பிற சாதனங்கள்:** [iPhone](iphone.ta.md) · [iPad](ipad.ta.md) · [Mac](mac.ta.md) · [Apple Vision Pro](vision-pro.ta.md)
+**பிற சாதனங்கள்:** [iPhone](iphone.ta.md) · [iPhone Duo](iphone-duo.ta.md) · [iPad](ipad.ta.md) · [Mac](mac.ta.md) · [Apple Vision Pro](vision-pro.ta.md)

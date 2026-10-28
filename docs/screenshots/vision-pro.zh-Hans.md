@@ -11,4 +11,4 @@
 
 <sub>截图显示的是 2026 年 10 月 25 日的真实数据。</sub>
 
-**其他设备:** [iPhone](iphone.zh-Hans.md) · [iPad](ipad.zh-Hans.md) · [Mac](mac.zh-Hans.md) · [Apple Watch](apple-watch.zh-Hans.md)
+**其他设备:** [iPhone](iphone.zh-Hans.md) · [iPhone Duo](iphone-duo.zh-Hans.md) · [iPad](ipad.zh-Hans.md) · [Mac](mac.zh-Hans.md) · [Apple Watch](apple-watch.zh-Hans.md)

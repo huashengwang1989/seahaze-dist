@@ -9,4 +9,4 @@
 
 <sub>Tangkapan skrin menunjukkan data sebenar pada 25 Oktober 2026.</sub>
 
-**Peranti lain:** [iPhone](iphone.ms.md) · [iPad](ipad.ms.md) · [Mac](mac.ms.md) · [Apple Vision Pro](vision-pro.ms.md)
+**Peranti lain:** [iPhone](iphone.ms.md) · [iPhone Duo](iphone-duo.ms.md) · [iPad](ipad.ms.md) · [Mac](mac.ms.md) · [Apple Vision Pro](vision-pro.ms.md)

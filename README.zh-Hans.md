@@ -25,7 +25,7 @@ SEA Haze 显示新加坡、马来西亚及东南亚的烟霾与空气质量：�
   <img src="images/screenshots/vision-pro/01-3d-terrain.jpg" width="720" alt="Apple Vision Pro 上的 3D 地形沙盘">
 </p>
 
-**更多截图:** [iPhone](docs/screenshots/iphone.zh-Hans.md) · [iPad](docs/screenshots/ipad.zh-Hans.md) · [Mac](docs/screenshots/mac.zh-Hans.md) · [Apple Vision Pro](docs/screenshots/vision-pro.zh-Hans.md) · [Apple Watch](docs/screenshots/apple-watch.zh-Hans.md)
+**更多截图:** [iPhone](docs/screenshots/iphone.zh-Hans.md) · [iPhone Duo](docs/screenshots/iphone-duo.zh-Hans.md) · [iPad](docs/screenshots/ipad.zh-Hans.md) · [Mac](docs/screenshots/mac.zh-Hans.md) · [Apple Vision Pro](docs/screenshots/vision-pro.zh-Hans.md) · [Apple Watch](docs/screenshots/apple-watch.zh-Hans.md)
 
 ## 常见问题
 

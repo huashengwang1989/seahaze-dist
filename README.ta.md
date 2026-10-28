@@ -25,7 +25,7 @@ iPhone, iPad, Mac, Apple Watch, Apple Vision Pro ஆகியவற்றில�
   <img src="images/screenshots/vision-pro/01-3d-terrain.jpg" width="720" alt="Apple Vision Pro-இல் 3D நிலப்பரப்பு மணல் மேசை">
 </p>
 
-**மேலும் திரைப்பிடிப்புகள்:** [iPhone](docs/screenshots/iphone.ta.md) · [iPad](docs/screenshots/ipad.ta.md) · [Mac](docs/screenshots/mac.ta.md) · [Apple Vision Pro](docs/screenshots/vision-pro.ta.md) · [Apple Watch](docs/screenshots/apple-watch.ta.md)
+**மேலும் திரைப்பிடிப்புகள்:** [iPhone](docs/screenshots/iphone.ta.md) · [iPhone Duo](docs/screenshots/iphone-duo.ta.md) · [iPad](docs/screenshots/ipad.ta.md) · [Mac](docs/screenshots/mac.ta.md) · [Apple Vision Pro](docs/screenshots/vision-pro.ta.md) · [Apple Watch](docs/screenshots/apple-watch.ta.md)
 
 ## அடிக்கடி கேட்கப்படும் கேள்விகள்
 
