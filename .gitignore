@@ -1,1 +1,4 @@
+# Built app and disk images (attached to GitHub releases instead)
+dist-macos-archive/
+dist-macos/
 .DS_Store
