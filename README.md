@@ -2,14 +2,20 @@
 
 **English** · [华文](README.zh-Hans.md) · [Bahasa Melayu](README.ms.md) · [தமிழ்](README.ta.md)
 
-> **About this repository:** SEA Haze is not open source. The app will be available on Apple's App Store (coming soon). This repository hosts its support page and privacy policy, and is the place to [report issues and request features](../../issues).
+> **About this repository:** SEA Haze is not open source. This repository hosts its support page and privacy policy, and is the place to [report issues and request features](../../issues).
 
 SEA Haze shows haze and air quality across Singapore, Malaysia and Southeast Asia: live PM2.5, PSI and API readings, haze and wind on the map, satellite fire hotspots in Sumatra and Borneo, rain, and tropical cyclones.
 
-Available for iPhone, iPad, Mac, Apple Watch and Apple Vision Pro, with widgets. The app is in English, 华文, Bahasa Melayu and தமிழ்.
+Made for iPhone, iPad, Mac, Apple Watch and Apple Vision Pro, with widgets. The app is in English, 华文, Bahasa Melayu and தமிழ்.
 
 - **Privacy Policy:** [PRIVACY.md](PRIVACY.md) — the app collects no personal data.
 - **Contact and feedback:** [open an issue](../../issues) in this repository.
+
+## Download
+
+- **Apple Vision Pro:** [App Store](https://apps.apple.com/us/app/sea-haze/id6827958053)
+- **Mac:** download the DMG from the [Releases page](../../releases/latest) (signed and notarized by Apple; requires macOS 26 or later).
+- **iPhone, iPad and Apple Watch:** coming to the App Store, awaiting Apple's review.
 
 ## Screenshots
 

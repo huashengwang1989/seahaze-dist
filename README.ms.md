@@ -2,14 +2,20 @@
 
 [English](README.md) · [华文](README.zh-Hans.md) · **Bahasa Melayu** · [தமிழ்](README.ta.md)
 
-> **Tentang repositori ini:** SEA Haze bukan perisian sumber terbuka. Aplikasi ini akan tersedia di App Store Apple (akan datang). Repositori ini menempatkan halaman sokongan dan dasar privasinya, dan merupakan tempat untuk [melaporkan isu dan mencadangkan ciri baharu](../../issues).
+> **Tentang repositori ini:** SEA Haze bukan perisian sumber terbuka. Repositori ini menempatkan halaman sokongan dan dasar privasinya, dan merupakan tempat untuk [melaporkan isu dan mencadangkan ciri baharu](../../issues).
 
 SEA Haze memaparkan jerebu dan kualiti udara di Singapura, Malaysia dan Asia Tenggara: bacaan PM2.5, PSI dan IPU secara langsung, jerebu dan angin pada peta, titik panas kebakaran satelit di Sumatera dan Borneo, hujan, serta siklon tropika.
 
-Tersedia untuk iPhone, iPad, Mac, Apple Watch dan Apple Vision Pro, dengan widget. Aplikasi ini dalam English, 华文, Bahasa Melayu dan தமிழ்.
+Dibuat untuk iPhone, iPad, Mac, Apple Watch dan Apple Vision Pro, dengan widget. Aplikasi ini dalam English, 华文, Bahasa Melayu dan தமிழ்.
 
 - **Dasar Privasi:** [PRIVACY.ms.md](PRIVACY.ms.md) — aplikasi ini tidak mengumpul data peribadi.
 - **Hubungi dan maklum balas:** [buka isu](../../issues) dalam repositori ini.
+
+## Muat turun
+
+- **Apple Vision Pro:** [App Store](https://apps.apple.com/us/app/sea-haze/id6827958053)
+- **Mac:** muat turun DMG dari [halaman Releases](../../releases/latest) (ditandatangani dan dinotari oleh Apple; memerlukan macOS 26 atau lebih baharu).
+- **iPhone, iPad dan Apple Watch:** akan tersedia di App Store, sedang menunggu semakan Apple.
 
 ## Tangkapan skrin
 
